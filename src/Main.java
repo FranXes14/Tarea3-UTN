@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 
 
-        System.out.println("Probando andoo");
+        System.out.println("Probando andooo");
 
         int num1 = 2 ;
         int num2 = 5;
